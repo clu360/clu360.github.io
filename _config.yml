@@ -23,7 +23,7 @@ repository               : "clu360/clu360.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "boat_picture.png"
+  avatar           : "boat_picture.jpg"
   name             : "Caleb Lu"
   pronouns         : "He/Him"  # example: "she/her"
   bio              : "MS Operations Research"
